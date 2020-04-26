@@ -5,6 +5,7 @@ Python 3
 
 ## Prerequisite:
 pip install requests
+
 pip install py-notifier
 
 #### Additional Installation only for Windows
@@ -17,8 +18,11 @@ pip install win10toast
 
 ## Usage
 **Simple Use**
+
 	python jiofi_battery_notifier.py
+	
 **Auto Start at Boot**
+
 	Follow guidelines for your operating system for running python scripts at startup.
 
 ## Troubleshooting
