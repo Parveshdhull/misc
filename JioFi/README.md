@@ -27,9 +27,9 @@ pip install win10toast
 
 ## Troubleshooting
 ####  Gateway Url Wrong
-		Change default gateway Url of your JioFi
+	Change default gateway Url of your JioFi
 #### Unable to find percentage from requests
-		Print response using using print(response.text) and find out what pattern is used for your device
+	Print response using using print(response.text) and find out what pattern is used for your device
 #### Others
 	Debug your code and find out what is going wrong and if you need my help reach me at "git.hrca@gmail.com"
 
