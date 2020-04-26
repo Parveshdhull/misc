@@ -1,4 +1,4 @@
-# JioFI Battery Notifier 
+# JioFi Battery Notifier 
 
 This is a simple python script which checks JioFi battery every 2 Minutes and notifies if level is lower than desired level. This Script works on both Linux and Windows.
 
