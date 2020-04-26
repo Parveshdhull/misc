@@ -1,10 +1,14 @@
+# JioFi Battery Notifier 
+
 This is a simple python script which checks JioFi battery every 2 Minutes and notifies if level is lower than desired level. This Script works on both Linux and Windows.
+If you want you can also include max desired level in script for notify on battery full.
 
 ## Python Version:
 Python 3
 
 ## Prerequisite:
 pip install requests
+
 pip install py-notifier
 
 #### Additional Installation only for Windows
@@ -17,15 +21,18 @@ pip install win10toast
 
 ## Usage
 **Simple Use**
+
 	python jiofi_battery_notifier.py
+	
 **Auto Start at Boot**
+
 	Follow guidelines for your operating system for running python scripts at startup.
 
 ## Troubleshooting
 ####  Gateway Url Wrong
-		Change default gateway Url of your JioFi
+	Change default gateway Url of your JioFi
 #### Unable to find percentage from requests
-		Print response using using print(response.text) and find out what pattern is used for your device
+	Print response using using print(response.text) and find out what pattern is used for your device
 #### Others
 	Debug your code and find out what is going wrong and if you need my help reach me at "git.hrca@gmail.com"
 
