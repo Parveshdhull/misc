@@ -4,7 +4,9 @@ This is only tested in Arch Linux and might not work in other distributions. But
 
 ## Usage
 
-sudo ./setup.sh
+1. Change MAC address and IP address in arp_persist.py
+
+2. sudo ./setup.sh
 
 ## Test
 
