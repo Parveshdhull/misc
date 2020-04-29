@@ -21,7 +21,7 @@ while True:
 		if int(percentage) < min and 'Discharging' in response.text:
 			Notification(title='JioFi Battery Notifier',description='Battery Level ' + percentage, duration=5).send()
 
-		time.sleep(120)		  # Check Every Two Minutes
-
 	except Exception as e:
 		pass
+
+	time.sleep(120)		  # Check Every Two Minutes
