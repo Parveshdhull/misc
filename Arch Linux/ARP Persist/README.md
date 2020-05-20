@@ -1,7 +1,5 @@
 # Persist ARP Entries
 
-This is only tested in Arch Linux and might not work in other distributions. But you can use this concept for  persist ARP entries and survive reboot for other distributions.(See Working)
-
 ## Usage
 
 1. Change MAC address and IP address in arp_persist.py

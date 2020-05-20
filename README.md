@@ -1,10 +1,18 @@
 # Some Simple Tools and Programs.
 
-### 1. Arch Linux/ARP Persist
+#### All programs are tested and work in all Linux distributions and Windows. Except for the ones which are in the Arch Linux directory. They are specially targeted for Arch Linux. But working is explained and can be easily implemented for other distributions.
 
-### 2. JioFi Battery Notifier
+## Linux + Windows
 
-### 3. AutoTyper - A Data entry tool
+### [1. AutoTyper - A Data entry tool](/AutoTyper)
+
+### [2. JioFi Battery Notifier](/JioFi)
+
+## Arch Linux
+
+### [1. ARP Persist](/Arch Linux/ARP Persist)
+
+### [2. Emoji Keyboard - Toggle](/Arch Linux/Emoji Keyboard)
 
 #### Troubleshooting
 
