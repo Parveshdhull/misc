@@ -10,9 +10,9 @@
 
 ## Arch Linux
 
-### [1. ARP Persist](/Arch Linux/ARP Persist)
+### [1. ARP Persist](/Arch%20Linux/ARP%20Persist)
 
-### [2. Emoji Keyboard - Toggle](/Arch Linux/Emoji Keyboard)
+### [2. Emoji Keyboard - Toggle](/Arch%20Linux/Emoji%20Keyboard)
 
 #### Troubleshooting
 
