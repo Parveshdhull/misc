@@ -1,9 +1,0 @@
-[Unit]
-Description=Persist Arp Enteries
- 
-[Service]
-ExecStartPre=/bin/sleep 60
-ExecStart=/usr/bin/arp_persist.py
- 
-[Install]
-WantedBy=multi-user.target
