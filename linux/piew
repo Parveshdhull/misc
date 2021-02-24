@@ -1,0 +1,12 @@
+#!/bin/bash
+
+NAME=`echo $1 | rev | cut -d "/" -f 1 | rev`
+
+n=0
+ls | while read p; do
+	n=$((n+1))
+	if [[ $p = $NAME ]]; then
+		ls | sxiv -bfin $n
+		break
+	fi
+done
