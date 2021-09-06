@@ -1,4 +1,4 @@
-# Some Simple Tools and Programs.
+# Some Simple Tools and Programs
 ## Linux
 
 * [piew](/linux/piew)
